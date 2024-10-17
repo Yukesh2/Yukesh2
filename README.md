@@ -1,7 +1,8 @@
 
 ## Hi there 👋
 
-[Uploading giphy-8.gif…]()
+
+![Uploading 463064122_919615986730370_6059468214085090532_n.jpg…]()
 
 
 - 🌱 I’m currently learning express js , c++ and others.
