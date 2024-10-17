@@ -5,7 +5,7 @@
 
 
 Here are some ideas to get you started:-->
-<iframe src="https://giphy.com/embed/aTCa0tTwPzfig" width="400" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-spirited-away-aTCa0tTwPzfig">via GIPHY</a></p>
+https://pugsanddinosaurs.com/wp-content/uploads/2015/06/giphy-8.gif
 - 🌱 I’m currently learning express js , c++ and others.
 - 💬 Ask me about js , css , node .
 - 📫 How to reach me: contact me at yukeshhtb@gmail.com
