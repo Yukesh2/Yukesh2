@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-![Uploading giphy-8.gif…]()
+[Uploading giphy-8.gif…]()
 
 
 - 🌱 I’m currently learning express js , c++ and others.
