@@ -1,13 +1,8 @@
 
 ## Hi there 👋
 
-<!--
-**Yukesh2/Yukesh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:-->
 ![Uploading giphy-8.gif…]()
+
 
 - 🌱 I’m currently learning express js , c++ and others.
 - 💬 Ask me about js , css , node .
